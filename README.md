@@ -21,4 +21,4 @@ Hello 👋;
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ged-sudo&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiAndronov&layout=compact&theme=vision-friendly-dark)
