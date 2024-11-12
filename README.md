@@ -3,7 +3,7 @@
 
 Hello 👋;
 <div id="badges">
-  <a href="https://habr.com/ru/users/GedKotlet/">
+  <a href="https://github.com/EvgeniiAndronov/">
     <img src="https://habr.com/img/dark-mode-switcher-mobile.png?v=1" alt="Habr Badge" width = "200" height = "50"/>
   </a>
   <a href="https://www.youtube.com/@ForeverJuniorDeveloper">
